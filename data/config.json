@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "Hamilton Letter",
-  "iiifManifest": "/dcefolger/hamilton/iiif/manifest.json",
+  "documentName": "Ms. Fr. 640",
+  "iiifManifest": "https://beta-api.faircopy.cloud/public/10/tei_documents/fr640/iiif",
   "transcriptionTypes": {
-    "hamilton": "Transcription"
+    "tl_p003r_preTEI": "Translation (EN)"
   },
   "viewerUrl": "/dcefolger"
 }

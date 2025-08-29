@@ -1,0 +1,9 @@
+{
+  "id": "ec",
+  "documentName": "Hamilton Letter",
+  "iiifManifest": "/dcefolger/hamilton/iiif/manifest.json",
+  "transcriptionTypes": {
+    "hamilton": "Transcription"
+  },
+  "viewerUrl": "/dcefolger"
+}
